@@ -1,0 +1,9 @@
+Building FitCoinPlus
+
+See doc/readme-qt.rst for instructions on building FitCoinPlus QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of FitCoinPlus.
+
+See doc/build-*.txt for instructions on building FitCoinPlusd,
+the intended-for-services, no-graphical-interface, reference
+implementation of FitCoinPlus.
